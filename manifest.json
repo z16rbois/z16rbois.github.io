@@ -1,0 +1,14 @@
+{
+  "name": "Quizzify",
+  "short_name": "Quizzify",
+  "description": "Quizzify",
+  "start_url": "/",
+  "display": "fullscreen",
+  "icons": [
+    {
+      "src": "menu_play.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
